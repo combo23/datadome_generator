@@ -2,6 +2,7 @@
 
 AntibotAIO is an application that generates datadome payload to bypass their security on sites like footlocker.
 Last supported version of DataDome is 4.19.0
+Alternatively you can use [CapSolver](https://www.capsolver.com/)
 
 ## Dependencies
 
